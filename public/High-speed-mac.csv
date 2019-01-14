@@ -1,0 +1,5 @@
+sn,car_number,car_riage,position,remarks
+100101850100001,G0123,1,01A,备注
+100101850100002,G1234,2,02B,car_number车次
+100101850100003,G2345,3,03C,car_riage车箱
+100101850100004,G3456,4,04D,position位置
